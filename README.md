@@ -45,3 +45,7 @@ python main.py
 ## License
 
 No repository license is currently specified. Ask the maintainer before redistributing.
+
+## Safety checklist
+
+Read [Safe usage and planned safeguards](docs/SAFE_USAGE.md) before modifying any storage paths or running the script.
